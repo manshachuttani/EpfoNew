@@ -22,7 +22,7 @@ Ext.define('EpfoNew.view.Main', {
                     xtype: 'titlebar',
                     title: 'EPFO'
                 },
-
+                
                 html: [
 "<a href=\"javascript:navigator.notification.alert('Congratulations, you are ready to work with Sencha Touch 2 and PhoneGap!', null, 'OK','OK')\">Click me</a>"
               ].join("")
