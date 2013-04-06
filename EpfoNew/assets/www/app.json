@@ -98,16 +98,7 @@
          * List of items in the FALLBACK section
          */
         "fallback": []
-    },
-
-    /**
-     * Extra resources to be copied along when build
-     */
-    "resources": [
-        "resources/images",
-        "resources/icons",
-        "resources/startup"
-    ],
+    },   
 
     /**
      * File / directory name matchers to ignore when copying to the builds, must be valid regular expressions
