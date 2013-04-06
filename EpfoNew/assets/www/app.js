@@ -1,9 +1,3 @@
-//<debug>
-Ext.Loader.setPath({
-    'Ext': 'touch/src',
-    'EpfoNew': 'app'
-});
-//</debug>
 
 Ext.application({
     name: 'EpfoNew',
