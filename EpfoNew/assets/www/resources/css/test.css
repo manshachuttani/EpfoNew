@@ -1,0 +1,21 @@
+.x-form1 {
+  background-color: #FFFFFF;
+}
+.x-passbookformpanel {
+  background-color: #FFFFFF;
+  border-radius: .7em;
+  border: 2px solid #8095AD;
+}
+.x-titlebarinsideformpanel {
+  background-color: #8095AD;
+  font-size:16px;
+  color: #FFFFFF;    
+}
+.x-passbookformpaneltitle {
+  	background-color: #8095AD;
+    border-top-left-radius: .4em;
+    border-top-right-radius: .4em;
+    font-size:14px;
+    color: #FFFFFF;
+}
+
