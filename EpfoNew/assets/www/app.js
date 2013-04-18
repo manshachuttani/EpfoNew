@@ -13,7 +13,9 @@ Ext.application({
         Ext.fly('appLoadingIndicator').destroy();
 
         // Initialize the main view
-        Ext.Viewport.add(Ext.create('EpfoNew.view.Main'));
+       var form = Ext.create('EpfoNew.view.Main'); 
+       Ext.Viewport.add(form);
+       
     },
 
     onUpdated: function() {
